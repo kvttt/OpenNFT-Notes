@@ -33,3 +33,11 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# multi-language support
+language = 'en'
+locale_dirs = ['../locale/']
+gettext_compact = False
+gettext_uuid = True
+
+
