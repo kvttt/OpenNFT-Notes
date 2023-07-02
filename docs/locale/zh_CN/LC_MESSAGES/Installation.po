@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenNFT-Notes 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-01 19:43-0400\n"
+"POT-Creation-Date: 2023-07-02 14:13-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -23,4 +23,40 @@ msgstr ""
 #: ../../source/Installation.rst:2 a8edfac4dcf94102915628f52ad213d4
 msgid "Installation"
 msgstr "安装"
+
+#: ../../source/Installation.rst:5 f967736b2f854349b67886b29b32ac00
+msgid "Install from GitHub"
+msgstr ""
+
+#: ../../source/Installation.rst:7 b85db46516474b2cae3d06199e2afdd1
+msgid ""
+"You might encounter `issues "
+"<https://github.com/OpenNFT/OpenNFT/issues/161>`_ while trying to install"
+" the package. I have already submitted a PR to the original author. But "
+"as for now, we will use my forked version of the package. Run the "
+"following command in the terminal to install the package:"
+msgstr ""
+
+#: ../../source/Installation.rst:19 f1b36d26cd4e46f1a0179b78ebf663fe
+#, fuzzy
+msgid "Check Installation"
+msgstr "安装"
+
+#: ../../source/Installation.rst:21 04cf59b51e7e408ab171e3df85a1122f
+msgid ""
+"To check if the installation was successful, run the following command in"
+" the terminal:"
+msgstr ""
+
+#: ../../source/Installation.rst:27 900fb70ae36d4581988fc2b1b4aa9994
+msgid "You should see the following output (or something similar):"
+msgstr ""
+
+#: ../../source/Installation.rst:37 b62378ccf8f84bfeb7f1abcd02093861
+msgid "Run OpenNFT"
+msgstr ""
+
+#: ../../source/Installation.rst:39 900fb70ae36d4581988fc2b1b4aa9994
+msgid "To run OpenNFT, run the following command in the terminal:"
+msgstr ""
 

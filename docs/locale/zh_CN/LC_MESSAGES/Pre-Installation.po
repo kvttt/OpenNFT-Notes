@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenNFT-Notes 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-02 12:02-0400\n"
+"POT-Creation-Date: 2023-07-02 14:13-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -23,4 +23,79 @@ msgstr ""
 #: ../../source/Pre-Installation.rst:2 8dc48832bc0b4e648f293f9a787a933b
 msgid "Pre-Installation Preparation"
 msgstr "预安装准备"
+
+#: ../../source/Pre-Installation.rst:4 926c2cc28bf940eeb8257075e0bb96cc
+msgid "In this step, we prepare the system for the installation of OpenNFT."
+msgstr ""
+
+#: ../../source/Pre-Installation.rst:6 44a074337dc845af9ce7696470185c33
+msgid "Install MATLAB R2017b or later."
+msgstr ""
+
+#: ../../source/Pre-Installation.rst:8 62d82b93817744549118698d814233d9
+msgid "Imaging Processing Toolbox"
+msgstr ""
+
+#: ../../source/Pre-Installation.rst:9 a4ff014be86741a1bd178225969e061d
+msgid "Statistics and Machine Learning Toolbox"
+msgstr ""
+
+#: ../../source/Pre-Installation.rst:10 bdb144104b454a389084a81bfa85c22b
+msgid "SPM12"
+msgstr ""
+
+#: ../../source/Pre-Installation.rst:11 a2c4addf51324484bc83ce5a933c91ec
+msgid "Psychtoolbox 3"
+msgstr ""
+
+#: ../../source/Pre-Installation.rst:12 44c4b0d58ab0465c8e36c154626c24a4
+msgid "JSONlab"
+msgstr ""
+
+#: ../../source/Pre-Installation.rst:14 24d9613c15c54c21ad6262896ad2d394
+msgid "Create Conda environment for installing OpenNFT."
+msgstr ""
+
+#: ../../source/Pre-Installation.rst:16 a2ff2a38151246f28bd62d95b07d2af3
+msgid "Python 3.6.0 to 3.8.6"
+msgstr ""
+
+#: ../../source/Pre-Installation.rst:18 95fc5e87eea549b5abac5cf89ad26491
+msgid "Install Git."
+msgstr ""
+
+#: ../../source/Pre-Installation.rst:20 6eaa166f5e3f4e1ea2a6d61f9d3db772
+msgid "We assume that you have install the software listed in step 1."
+msgstr ""
+
+#: ../../source/Pre-Installation.rst:23 53948249f9f9470883c9b83bd8b55eb7
+msgid "Create and Activate Conda Environment"
+msgstr ""
+
+#: ../../source/Pre-Installation.rst:25 d156a513853f4893bc73dac8e876e235
+msgid ""
+"If you have not installed Conda, please refer to `Conda Installation "
+"<https://docs.conda.io/projects/conda/en/latest/user-"
+"guide/install/index.html>`_."
+msgstr ""
+
+#: ../../source/Pre-Installation.rst:27 965b6f8c52be42e9b4bf417b8d372147
+msgid ""
+"To create a Conda environment for installing OpenNFT, run the following "
+"command in the terminal:"
+msgstr ""
+
+#: ../../source/Pre-Installation.rst:37 95fc5e87eea549b5abac5cf89ad26491
+msgid "Install Git"
+msgstr ""
+
+#: ../../source/Pre-Installation.rst:39 321b05887bab400c89f37a71019421fb
+msgid ""
+"To install Git in the Conda environment you just created, run the "
+"following command in the terminal:"
+msgstr ""
+
+#: ../../source/Pre-Installation.rst:46 e5e84e87562048f3a4f2221d500d1d65
+msgid "Now we are ready to move on to the next step."
+msgstr ""
 
