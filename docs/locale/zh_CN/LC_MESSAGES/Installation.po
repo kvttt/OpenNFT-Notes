@@ -26,7 +26,7 @@ msgstr "安装"
 
 #: ../../source/Installation.rst:5 f967736b2f854349b67886b29b32ac00
 msgid "Install from GitHub"
-msgstr ""
+msgstr "从 GitHub 安装"
 
 #: ../../source/Installation.rst:7 b85db46516474b2cae3d06199e2afdd1
 msgid ""
@@ -35,28 +35,31 @@ msgid ""
 " the package. I have already submitted a PR to the original author. But "
 "as for now, we will use my forked version of the package. Run the "
 "following command in the terminal to install the package:"
-msgstr ""
+msgstr "你可能会在安装包时遇到 `问题 "
+"<https://github.com/OpenNFT/OpenNFT/issues/161>`_。"
+"我已经向原作者提交了一个 PR。但是现在，我们将使用我 fork 的版本。"
+"在终端中运行以下命令来安装 OpenNFT："
 
 #: ../../source/Installation.rst:19 f1b36d26cd4e46f1a0179b78ebf663fe
 #, fuzzy
 msgid "Check Installation"
-msgstr "安装"
+msgstr "检查"
 
 #: ../../source/Installation.rst:21 04cf59b51e7e408ab171e3df85a1122f
 msgid ""
 "To check if the installation was successful, run the following command in"
 " the terminal:"
-msgstr ""
+msgstr "要检查安装是否成功，请在终端中运行以下命令："
 
 #: ../../source/Installation.rst:27 900fb70ae36d4581988fc2b1b4aa9994
 msgid "You should see the following output (or something similar):"
-msgstr ""
+msgstr "你应该会看到以下输出（或类似的内容）："
 
 #: ../../source/Installation.rst:37 b62378ccf8f84bfeb7f1abcd02093861
 msgid "Run OpenNFT"
-msgstr ""
+msgstr "运行 OpenNFT"
 
 #: ../../source/Installation.rst:39 900fb70ae36d4581988fc2b1b4aa9994
 msgid "To run OpenNFT, run the following command in the terminal:"
-msgstr ""
+msgstr "要运行 OpenNFT，请在终端中运行以下命令："
 

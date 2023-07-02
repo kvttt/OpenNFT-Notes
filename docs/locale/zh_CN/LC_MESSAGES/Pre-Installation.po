@@ -26,76 +26,76 @@ msgstr "预安装准备"
 
 #: ../../source/Pre-Installation.rst:4 926c2cc28bf940eeb8257075e0bb96cc
 msgid "In this step, we prepare the system for the installation of OpenNFT."
-msgstr ""
+msgstr "在这一步，我们将做一些安装 OpenNFT 之前的准备工作。这其中包括："
 
 #: ../../source/Pre-Installation.rst:6 44a074337dc845af9ce7696470185c33
 msgid "Install MATLAB R2017b or later."
-msgstr ""
+msgstr "安装 MATLAB R2017b 或更高版本。"
 
 #: ../../source/Pre-Installation.rst:8 62d82b93817744549118698d814233d9
 msgid "Imaging Processing Toolbox"
-msgstr ""
+msgstr "Imaging Processing Toolbox"
 
 #: ../../source/Pre-Installation.rst:9 a4ff014be86741a1bd178225969e061d
 msgid "Statistics and Machine Learning Toolbox"
-msgstr ""
+msgstr "Statistics and Machine Learning Toolbox"
 
 #: ../../source/Pre-Installation.rst:10 bdb144104b454a389084a81bfa85c22b
 msgid "SPM12"
-msgstr ""
+msgstr "SPM12"
 
 #: ../../source/Pre-Installation.rst:11 a2c4addf51324484bc83ce5a933c91ec
 msgid "Psychtoolbox 3"
-msgstr ""
+msgstr "Psychtoolbox 3"
 
 #: ../../source/Pre-Installation.rst:12 44c4b0d58ab0465c8e36c154626c24a4
 msgid "JSONlab"
-msgstr ""
+msgstr "JSONlab"
 
 #: ../../source/Pre-Installation.rst:14 24d9613c15c54c21ad6262896ad2d394
 msgid "Create Conda environment for installing OpenNFT."
-msgstr ""
+msgstr "创建用以安装 OpenNFT 的 Conda 环境。"
 
 #: ../../source/Pre-Installation.rst:16 a2ff2a38151246f28bd62d95b07d2af3
 msgid "Python 3.6.0 to 3.8.6"
-msgstr ""
+msgstr "Python 3.6.0 到 3.8.6"
 
 #: ../../source/Pre-Installation.rst:18 95fc5e87eea549b5abac5cf89ad26491
 msgid "Install Git."
-msgstr ""
+msgstr "安装 Git。"
 
 #: ../../source/Pre-Installation.rst:20 6eaa166f5e3f4e1ea2a6d61f9d3db772
 msgid "We assume that you have install the software listed in step 1."
-msgstr ""
+msgstr "我们假设您已经安装了步骤 1 中列出的软件。"
 
 #: ../../source/Pre-Installation.rst:23 53948249f9f9470883c9b83bd8b55eb7
 msgid "Create and Activate Conda Environment"
-msgstr ""
+msgstr "创建并激活 Conda 环境"
 
 #: ../../source/Pre-Installation.rst:25 d156a513853f4893bc73dac8e876e235
 msgid ""
 "If you have not installed Conda, please refer to `Conda Installation "
 "<https://docs.conda.io/projects/conda/en/latest/user-"
 "guide/install/index.html>`_."
-msgstr ""
+msgstr "如果您还没有安装 Conda，请参考 `Conda 安装 <https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html>`_。"
 
 #: ../../source/Pre-Installation.rst:27 965b6f8c52be42e9b4bf417b8d372147
 msgid ""
 "To create a Conda environment for installing OpenNFT, run the following "
 "command in the terminal:"
-msgstr ""
+msgstr "要创建一个用于安装 OpenNFT 的 Conda 环境，请在终端中运行以下命令："
 
 #: ../../source/Pre-Installation.rst:37 95fc5e87eea549b5abac5cf89ad26491
 msgid "Install Git"
-msgstr ""
+msgstr "安装 Git"
 
 #: ../../source/Pre-Installation.rst:39 321b05887bab400c89f37a71019421fb
 msgid ""
 "To install Git in the Conda environment you just created, run the "
 "following command in the terminal:"
-msgstr ""
+msgstr "要在您刚刚创建的 Conda 环境中安装 Git，请在终端中运行以下命令："
 
 #: ../../source/Pre-Installation.rst:46 e5e84e87562048f3a4f2221d500d1d65
 msgid "Now we are ready to move on to the next step."
-msgstr ""
+msgstr "下一步我们将开始安装 OpenNFT。"
 
