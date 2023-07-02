@@ -12,6 +12,6 @@ Contents
    :maxdepth: 2
 
    Intro
-   Installation
    Pre-Installation
+   Installation
 
