@@ -39,5 +39,3 @@ language = 'en'
 locale_dirs = ['../locale/']
 gettext_compact = False
 gettext_uuid = True
-
-

@@ -13,4 +13,5 @@ Contents
 
    Intro
    Installation
+   Pre-Installation
 
