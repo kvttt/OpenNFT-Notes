@@ -6,7 +6,7 @@
 #
 #, fuzzy
 msgid ""
-msgstr "a"
+msgstr ""
 "Project-Id-Version: OpenNFT-Notes 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-01 19:43-0400\n"
