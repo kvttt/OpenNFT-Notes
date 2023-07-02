@@ -154,3 +154,7 @@ dmypy.json
 cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
+docs/build.sh
+docs/build-zh_CN.sh
+docs/build-all.sh
+docs/build-en_US.sh

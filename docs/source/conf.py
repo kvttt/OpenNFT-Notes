@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'OpenNFT-Notes'
-copyright = '2023, Kaibo'
+copyright = '2023, Kaibo Tang'
 author = 'Kaibo Tang'
 
 release = '0.1'
