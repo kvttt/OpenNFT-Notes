@@ -22,5 +22,5 @@ msgstr ""
 
 #: ../../source/Installation.rst:2 a8edfac4dcf94102915628f52ad213d4
 msgid "Installation"
-msgstr ""
+msgstr "安装"
 

@@ -22,5 +22,5 @@ msgstr ""
 
 #: ../../source/Intro.rst:2 180cb0499f5e4d0cb6007e3ceba16717
 msgid "Intro"
-msgstr ""
+msgstr "介绍"
 

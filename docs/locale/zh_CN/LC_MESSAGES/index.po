@@ -26,7 +26,7 @@ msgstr "欢迎来到 OpenNFT 中文安装向导！"
 
 #: ../../source/index.rst:6 c89666f027464d96965519df093f4ffd
 msgid "This project is under active development."
-msgstr ""
+msgstr "该项目还在开发中。"
 
 #: ../../source/index.rst:9 58e2af9bb51d472ba730b6591bc175f9
 msgid "Contents"
