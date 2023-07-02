@@ -41,7 +41,6 @@ msgstr "你可能会在安装包时遇到 `问题 "
 "在终端中运行以下命令来安装 OpenNFT："
 
 #: ../../source/Installation.rst:19 f1b36d26cd4e46f1a0179b78ebf663fe
-#, fuzzy
 msgid "Check Installation"
 msgstr "检查"
 
