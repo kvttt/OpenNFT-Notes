@@ -68,7 +68,7 @@ msgstr "安装 Git。"
 
 #: ../../source/Pre-Installation.rst:21 792b5ff4171341cfa6ee5dd490c44195
 msgid "Install MATLAB R2017b or Later"
-msgstr "安装 MATLAB R2017b 或更高版本。"
+msgstr "安装 MATLAB R2017b 或更高版本"
 
 #: ../../source/Pre-Installation.rst:23 6eaa166f5e3f4e1ea2a6d61f9d3db772
 msgid ""
