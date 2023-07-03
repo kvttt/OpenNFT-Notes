@@ -41,7 +41,7 @@ To create a Conda environment for installing OpenNFT, run the following command 
 .. code-block:: bash
 
     # Create a Conda environment named opennft and install Python 3.8.0
-    conda create -n opennft python=3.8.0 
+    conda create -n opennft python=3.9.0 
     # Activate the environment we just created
     conda activate opennft
 
