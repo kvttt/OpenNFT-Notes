@@ -17,7 +17,19 @@ In this step, we prepare the system for the installation of OpenNFT.
 
 #. Install Git.
 
-We assume that you have install the software listed in step 1.
+Install MATLAB R2017b or Later
+------------------------------
+
+We assume that you have install MATLAB, along with the following toolboxes:
+
+* Imaging Processing Toolbox
+* Statistics and Machine Learning Toolbox
+
+To install SPM12, please refer to `SPM Installation <https://www.fil.ion.ucl.ac.uk/spm/software/download/>`_.
+
+To install Psychtoolbox 3, please refer to `Psychtoolbox Installation <http://psychtoolbox.org/download.html>`_.
+
+To install JSONlab, please refer to `JSONlab Installation <https://www.mathworks.com/matlabcentral/fileexchange/33381-jsonlab-a-toolbox-to-encode-decode-json-files>`_.
 
 Create and Activate Conda Environment
 -------------------------------------
