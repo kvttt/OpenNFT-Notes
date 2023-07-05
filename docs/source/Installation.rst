@@ -41,3 +41,10 @@ To run OpenNFT, run the following command in the terminal:
 .. code-block:: bash
 
     opennft
+
+
+Issues 
+------
+
+If you have to install MATLAB Engine API for Python manually, please refer to 
+`Install MATLAB Engine API for Python <https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html>`_.
