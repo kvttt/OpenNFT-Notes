@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenNFT-Notes 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-01 21:21-0400\n"
+"POT-Creation-Date: 2023-07-05 16:56-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -24,17 +24,274 @@ msgstr ""
 msgid "Intro"
 msgstr "介绍"
 
-#: ../../source/Intro.rst:4 0727c8fc73404f359fad82548fd2773b
+#: ../../source/Intro.rst:6 0727c8fc73404f359fad82548fd2773b
 msgid ""
 "This document is a personal notebook of my experience with `OpenNFT "
 "<https://www.opennft.org>`_. It is not the `official tutorial "
 "<https://opennft.readthedocs.io/en/latest/index.html>`_ or intended to be"
 " a tutorial, but rather a collection of notes that I took while learning "
 "how to work with OpenNFT."
-msgstr "这份指南是我学习 `OpenNFT "
-"<https://www.opennft.org>`_ 时的笔记，不是 `官方指南 "
-"<https://opennft.readthedocs.io/en/latest/index.html>`_ ，也不是教程，而是"
-"我学习 OpenNFT 时的笔记。"
+msgstr ""
+"这份指南是我学习 `OpenNFT <https://www.opennft.org>`_ 时的笔记，不是 `官方指南 "
+"<https://opennft.readthedocs.io/en/latest/index.html>`_ ，也不是教程，而是我学习 "
+"OpenNFT 时的笔记。"
+
+#: ../../source/Intro.rst:10 d88b066fe3104246b1748a38e37a8982
+msgid "Summary of the paper"
+msgstr ""
+
+#: ../../source/Intro.rst:12 f3a9a5593efe41cf99f77e72d233bac6
+msgid ""
+"This section of the notebook provides a summary of the paper titled "
+"`\"OpenNFT: An open-source Python/Matlab framework for real-time fMRI "
+"neurofeedback training based on activity, connectivity and multivariate "
+"pattern analysis\" "
+"<http://dx.doi.org/10.1016/j.neuroimage.2017.06.039>`_."
+msgstr ""
+
+#: ../../source/Intro.rst:15 8d50b5abc35847979f68ea7bcc9741fe
+msgid "Introduction"
+msgstr ""
+
+#: ../../source/Intro.rst:17 745b91dfb1094369a93f60ac324d4b72
+msgid ""
+"The motivation of the paper is to leverage **neurofeedback** to help "
+"participants learn **voluntary control** over their own brain activity "
+"and connectivity via **operant conditioning**. The superiority of such "
+"approach lies in the fact that it is **drug free**, **non-invasive**, and"
+" **effective** in treating a variety of diseases."
+msgstr ""
+
+#: ../../source/Intro.rst:20 bf38994f53d048f6978c570e2fce5ee2
+msgid ""
+"The authors compares **neurofeedback based on rt-fMRI** to **conventional"
+" neurofeedback study**."
+msgstr ""
+
+#: ../../source/Intro.rst:22 093c32e5f1d54463ad3e3e4b2107fa27
+msgid "Conventional neurofeedback study"
+msgstr ""
+
+#: ../../source/Intro.rst:24 9a90453d8c33421c9f1ffa8f36b09bdf
+msgid "Performance of the participant not evaluated in real-time"
+msgstr ""
+
+#: ../../source/Intro.rst:25 c3b4fcaf79ce410aa70dd66981da83f2
+msgid "Challenging to evaluate behavioral/therapeutic effect"
+msgstr ""
+
+#: ../../source/Intro.rst:26 26409082e5db4813ab1a4ef754555a6e
+msgid "Range from single-day session to long session over several days"
+msgstr ""
+
+#: ../../source/Intro.rst:28 9f4a227d32df4c52b0a7942d5fc51f74
+msgid "Neurofeedback based on rt-fMRI"
+msgstr ""
+
+#: ../../source/Intro.rst:30 d418160c2bb5468097237daad0d8ee93
+msgid "Demands high-performance computer"
+msgstr ""
+
+#: ../../source/Intro.rst:31 6440e06819b543f9931a60d74309ed47
+msgid "Lacks open-source GUI-based framework"
+msgstr ""
+
+#: ../../source/Intro.rst:33 fab88ea8e7964b389ca99942c89bae99
+msgid ""
+"And OpenNFT falls under the category of **neurofeedback based on rt-"
+"fMRI**."
+msgstr ""
+
+#: ../../source/Intro.rst:36 076ce91647f64843a3e334637ee2f837
+msgid "Methods"
+msgstr ""
+
+#: ../../source/Intro.rst:38 11aefc06ad4944718522f05468960004
+msgid "Neurofeedback data acquisition and transfer"
+msgstr ""
+
+#: ../../source/Intro.rst:40 9a8d4bb141ba49be97572e189cd07432
+msgid ""
+"A **data analysis workstation** (where OpenNFT is installed) is added to "
+"the same network as the MR scanner and reconstruction console."
+msgstr ""
+
+#: ../../source/Intro.rst:42 4830266798ef49e68ebc8f9ba4cb03f2
+msgid ""
+"MR hardware and software export acquired and reconstructed data to a "
+"shared folder."
+msgstr ""
+
+#: ../../source/Intro.rst:43 43e2bb19d66f4a188811b59083203320
+msgid "Data analysis workstation access the exported data via **TCP/IP**."
+msgstr ""
+
+#: ../../source/Intro.rst:45 06bd62a1b8b84f138f46af1a90e2c260
+msgid "Timing and synchronization"
+msgstr ""
+
+#: ../../source/Intro.rst:47 5a4631c54361434f9ddf1d3a7586c76b
+msgid "Data preprocessing"
+msgstr ""
+
+#: ../../source/Intro.rst:49 e48c8c4d2bae4411b4b4efa0d47b1faa
+msgid ""
+"If precautions are not taken against movement, **spatial alignment** and "
+"**reslicing** (via SPM12) are recommended."
+msgstr ""
+
+#: ../../source/Intro.rst:51 44924e092bc34578ad02618c829a47d0
+msgid "Data processing"
+msgstr ""
+
+#: ../../source/Intro.rst:53 ec01bbc9094a45f58af680e1315f8726
+msgid ""
+"**Incremental GLM (iGLM)** is used to estimate **whole-brian activation "
+"maps** which is displayed in real-time."
+msgstr ""
+
+#: ../../source/Intro.rst:54 0488fd16a0c14b63879e5a40087a14d9
+msgid ""
+"**Cumulative GLM** is used to correct for **linear drift** and **head "
+"motions**."
+msgstr ""
+
+#: ../../source/Intro.rst:55 0a47863fe43447029a2180d61d47177d
+msgid ""
+"**Low-pass Kalman filter** extracts **desired signal** and discards "
+"**high-frequency noise**."
+msgstr ""
+
+#: ../../source/Intro.rst:56 55641c041d5841b7b480d33971742436
+msgid ""
+"**First-order autoregressive model (AR(1))** applied on **all voxels' "
+"time-series** **prior to estimation of the GLM** is used account for "
+"serial correlations in fMRI data due to **non-neurophysiological "
+"fluctuations** and **non-modeled neuronal activity**."
+msgstr ""
+
+#: ../../source/Intro.rst:57 5f1f842f6a5d423dabf2a7a84b63280f
+msgid "**Dynamic ROI estimation**."
+msgstr ""
+
+#: ../../source/Intro.rst:59 b561fcc5deaa46ed96c21b0bb18bf872
+msgid "Feedback estimation"
+msgstr ""
+
+#: ../../source/Intro.rst:61 51001a08f2004e0fa54e6ae3e7e781a7
+msgid ""
+"Constantly displayed (continuous) and periodically displayed "
+"(intermittent) **activation-based** feedbacks"
+msgstr ""
+
+#: ../../source/Intro.rst:63 c77bf1a63d6c4f6b96cb3552db99dc02
+msgid ""
+"Single/multiple ROI activity levels are estimated in terms of **percent "
+"signal change (PSC)** after preprocessing. Feedback estimation in this "
+"fashion usually involves:"
+msgstr ""
+
+#: ../../source/Intro.rst:66 ec005aaf4c3c44cfb5fe0dd78606982a
+msgid "Extracting voxel activity using ROI/pattern masks,"
+msgstr ""
+
+#: ../../source/Intro.rst:67 bc11bef479aa485bbe8027fa1dda795d
+msgid ""
+"Obtaining average, weighted average, or eigenvector estimate from the "
+"spatial-temporal data sample within the ROI, and"
+msgstr ""
+
+#: ../../source/Intro.rst:68 5b23652aa424497482702e409190faea
+msgid ""
+"Adaptively scaling (normalizing) the time-series (to prevent confusion "
+"for the participants)."
+msgstr ""
+
+#: ../../source/Intro.rst:70 b480f0f1ad0744a98f69d04f3e8e4871
+msgid "Intermittent effective **connectivity** feedback"
+msgstr ""
+
+#: ../../source/Intro.rst:72 fe80ebe9f7a74701a0140ca02a6cff01
+msgid "Connectivity can estimated as:"
+msgstr ""
+
+#: ../../source/Intro.rst:74 f093b638702a43ae93ad1aefe71b876b
+msgid ""
+"Temporal correlation (using **Pearson correlation coefficient** "
+"estimation) between two time-series, and"
+msgstr ""
+
+#: ../../source/Intro.rst:75 f093b638702a43ae93ad1aefe71b876b
+msgid ""
+"Functional connectivity networks using **real-time Smooth Incremental "
+"Graphical Lasso (rt-SINGLE)**."
+msgstr ""
+
+#: ../../source/Intro.rst:77 0b49a457942d42de9cf2b917df3825bf
+msgid ""
+"Dynamic causal modeling (DCM) can also be used to estimate effective "
+"connectivity."
+msgstr ""
+
+#: ../../source/Intro.rst:79 f4d4496f1d5144c6892d4d291bea1ab5
+msgid "Continuous **classification-based** feedback"
+msgstr ""
+
+#: ../../source/Intro.rst:81 d54f3614e19d461ebdb1a6a0b838c8f1
+msgid ""
+"A **supporting vector machine (SVM) classifier** is trained prior to "
+"neurofeedback run to discriminate between two attention states."
+msgstr ""
+
+#: ../../source/Intro.rst:82 9af12bd4a85a40b2b8c93698ca2eeaa3
+msgid ""
+"Accuracy of classification is determined using **n-fold cross "
+"validation**."
+msgstr ""
+
+#: ../../source/Intro.rst:83 039e34f371c04ba8b8e5ab692fc1af04
+msgid "The trained classifier is used to provide neurofeedback."
+msgstr ""
+
+#: ../../source/Intro.rst:85 daa7f17d8e3045d299980124753d700c
+msgid "Feedback presentation."
+msgstr ""
+
+#: ../../source/Intro.rst:87 6505dc6fd3b64bcea593cd03cc87772b
+msgid "Feedback is presented visually as simple visual cues, e.g."
+msgstr ""
+
+#: ../../source/Intro.rst:89 52bc3e99d8d04777b3ffa8ab8342f65f
+msgid "Thermometer,"
+msgstr ""
+
+#: ../../source/Intro.rst:90 bcad927cc7184001b21ed2201955990c
+msgid "Moving bar,"
+msgstr ""
+
+#: ../../source/Intro.rst:91 6a97af4b7b7d4fcd9cdd0469d1f711af
+msgid "Avatar faces, and"
+msgstr ""
+
+#: ../../source/Intro.rst:92 cbd5204eaf23478ba58255028e8a1703
+msgid "VR-scenes,"
+msgstr ""
+
+#: ../../source/Intro.rst:94 35a4cae1e3144a4091b3a31822660f68
+msgid "via"
+msgstr ""
+
+#: ../../source/Intro.rst:96 0bde22795f3a43ea894798517c88fc24
+msgid "MR-compatible 2D screens/goggles,"
+msgstr ""
+
+#: ../../source/Intro.rst:97 93f66f792fe24bf5a57397cf2bd99895
+msgid "MR-compatible 3D displays, and"
+msgstr ""
+
+#: ../../source/Intro.rst:98 7b1296796d644906990353c0b9f3b06d
+msgid "Virtual-reality goggles."
+msgstr ""
 
 #~ msgid ""
 #~ "This document is a personal notebook "
