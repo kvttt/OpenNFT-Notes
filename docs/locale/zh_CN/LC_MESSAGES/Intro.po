@@ -38,7 +38,7 @@ msgstr ""
 
 #: ../../source/Intro.rst:10 d88b066fe3104246b1748a38e37a8982
 msgid "Summary of the paper"
-msgstr ""
+msgstr "论文摘要"
 
 #: ../../source/Intro.rst:12 f3a9a5593efe41cf99f77e72d233bac6
 msgid ""
@@ -47,11 +47,11 @@ msgid ""
 "neurofeedback training based on activity, connectivity and multivariate "
 "pattern analysis\" "
 "<http://dx.doi.org/10.1016/j.neuroimage.2017.06.039>`_."
-msgstr ""
+msgstr "这一段笔记提供了一篇论文的摘要，标题为 `\"OpenNFT: An open-source Python/Matlab framework for real-time fMRI neurofeedback training based on activity, connectivity and multivariate pattern analysis\" <http://dx.doi.org/10.1016/j.neuroimage.2017.06.039>`_ 。
 
 #: ../../source/Intro.rst:15 8d50b5abc35847979f68ea7bcc9741fe
 msgid "Introduction"
-msgstr ""
+msgstr "介绍"
 
 #: ../../source/Intro.rst:17 745b91dfb1094369a93f60ac324d4b72
 msgid ""
@@ -60,107 +60,107 @@ msgid ""
 "and connectivity via **operant conditioning**. The superiority of such "
 "approach lies in the fact that it is **drug free**, **non-invasive**, and"
 " **effective** in treating a variety of diseases."
-msgstr ""
+msgstr "这篇文章的动机是利用 **神经反馈** 帮助参与者通过 **操作性条件反射** 学习对自己的大脑活动和连接性进行 **自主控制** 。这种方法的优越性在于它是 **无药物** 、 **非侵入性** 的，而且在治疗各种疾病方面是 **有效的** 。"
 
 #: ../../source/Intro.rst:20 bf38994f53d048f6978c570e2fce5ee2
 msgid ""
 "The authors compares **neurofeedback based on rt-fMRI** to **conventional"
 " neurofeedback study**."
-msgstr ""
+msgstr "作者将 **基于实时功能磁共振成像的神经反馈** 与 **传统的神经反馈研究** 进行了比较。"
 
 #: ../../source/Intro.rst:22 093c32e5f1d54463ad3e3e4b2107fa27
 msgid "Conventional neurofeedback study"
-msgstr ""
+msgstr "传统的神经反馈研究"
 
 #: ../../source/Intro.rst:24 9a90453d8c33421c9f1ffa8f36b09bdf
 msgid "Performance of the participant not evaluated in real-time"
-msgstr ""
+msgstr "参与者的表现没有实时评估"
 
 #: ../../source/Intro.rst:25 c3b4fcaf79ce410aa70dd66981da83f2
 msgid "Challenging to evaluate behavioral/therapeutic effect"
-msgstr ""
+msgstr "难以评估行为/治疗效果"
 
 #: ../../source/Intro.rst:26 26409082e5db4813ab1a4ef754555a6e
 msgid "Range from single-day session to long session over several days"
-msgstr ""
+msgstr "持续时间从单日到几天"
 
 #: ../../source/Intro.rst:28 9f4a227d32df4c52b0a7942d5fc51f74
 msgid "Neurofeedback based on rt-fMRI"
-msgstr ""
+msgstr "基于实时功能磁共振成像的神经反馈"
 
 #: ../../source/Intro.rst:30 d418160c2bb5468097237daad0d8ee93
 msgid "Demands high-performance computer"
-msgstr ""
+msgstr "需要高性能计算机"
 
 #: ../../source/Intro.rst:31 6440e06819b543f9931a60d74309ed47
 msgid "Lacks open-source GUI-based framework"
-msgstr ""
+msgstr "缺乏开源的基于图形用户界面的框架"
 
 #: ../../source/Intro.rst:33 fab88ea8e7964b389ca99942c89bae99
 msgid ""
 "And OpenNFT falls under the category of **neurofeedback based on rt-"
 "fMRI**."
-msgstr ""
+msgstr "而 OpenNFT 属于 **基于实时功能磁共振成像的神经反馈** 。"
 
 #: ../../source/Intro.rst:36 076ce91647f64843a3e334637ee2f837
 msgid "Methods"
-msgstr ""
+msgstr "方法"
 
 #: ../../source/Intro.rst:38 11aefc06ad4944718522f05468960004
 msgid "Neurofeedback data acquisition and transfer"
-msgstr ""
+msgstr "神经反馈数据采集和传输"
 
 #: ../../source/Intro.rst:40 9a8d4bb141ba49be97572e189cd07432
 msgid ""
 "A **data analysis workstation** (where OpenNFT is installed) is added to "
 "the same network as the MR scanner and reconstruction console."
-msgstr ""
+msgstr "一个 **数据分析工作站** (安装了 OpenNFT) 被添加到与 MR 扫描仪和重建控制台相同的网络中。"
 
 #: ../../source/Intro.rst:42 4830266798ef49e68ebc8f9ba4cb03f2
 msgid ""
 "MR hardware and software export acquired and reconstructed data to a "
 "shared folder."
-msgstr ""
+msgstr "MR 硬件和软件将采集和重建的数据导出到一个共享文件夹。"
 
 #: ../../source/Intro.rst:43 43e2bb19d66f4a188811b59083203320
 msgid "Data analysis workstation access the exported data via **TCP/IP**."
-msgstr ""
+msgstr "数据分析工作站通过 **TCP/IP** 访问导出的数据。"
 
 #: ../../source/Intro.rst:45 06bd62a1b8b84f138f46af1a90e2c260
 msgid "Timing and synchronization"
-msgstr ""
+msgstr "时间和同步"
 
 #: ../../source/Intro.rst:47 5a4631c54361434f9ddf1d3a7586c76b
 msgid "Data preprocessing"
-msgstr ""
+msgstr "数据预处理"
 
 #: ../../source/Intro.rst:49 e48c8c4d2bae4411b4b4efa0d47b1faa
 msgid ""
 "If precautions are not taken against movement, **spatial alignment** and "
 "**reslicing** (via SPM12) are recommended."
-msgstr ""
+msgstr "如果没有采取措施防止头部移动，建议使用 **空间对齐** 和 **重采样** (通过 SPM12)。"
 
 #: ../../source/Intro.rst:51 44924e092bc34578ad02618c829a47d0
 msgid "Data processing"
-msgstr ""
+msgstr "数据处理"
 
 #: ../../source/Intro.rst:53 ec01bbc9094a45f58af680e1315f8726
 msgid ""
 "**Incremental GLM (iGLM)** is used to estimate **whole-brian activation "
 "maps** which is displayed in real-time."
-msgstr ""
+msgstr " **增量广义线性模型 (iGLM)** 用于估计 **全脑激活图** ，并实时显示。"
 
 #: ../../source/Intro.rst:54 0488fd16a0c14b63879e5a40087a14d9
 msgid ""
 "**Cumulative GLM** is used to correct for **linear drift** and **head "
 "motions**."
-msgstr ""
+msgstr " **累积广义线性模型** 用于校正 **线性漂移** 和 **头部运动**。"
 
 #: ../../source/Intro.rst:55 0a47863fe43447029a2180d61d47177d
 msgid ""
 "**Low-pass Kalman filter** extracts **desired signal** and discards "
 "**high-frequency noise**."
-msgstr ""
+msgstr " **低通卡尔曼滤波器** 提取 **信号** 并丢弃 **高频噪声**。"
 
 #: ../../source/Intro.rst:56 55641c041d5841b7b480d33971742436
 msgid ""
@@ -168,139 +168,127 @@ msgid ""
 "time-series** **prior to estimation of the GLM** is used account for "
 "serial correlations in fMRI data due to **non-neurophysiological "
 "fluctuations** and **non-modeled neuronal activity**."
-msgstr ""
+msgstr " **一阶自回归模型 (AR(1))** 应用于 **所有体素的时间序列** ，用于估计 GLM 之前，用于解释 fMRI 数据中由于 **非神经生理波动** 和 **非模拟的神经元活动** 而产生的序列相关性。"
 
 #: ../../source/Intro.rst:57 5f1f842f6a5d423dabf2a7a84b63280f
 msgid "**Dynamic ROI estimation**."
-msgstr ""
+msgstr "**动态 ROI 估计**。"
 
 #: ../../source/Intro.rst:59 b561fcc5deaa46ed96c21b0bb18bf872
 msgid "Feedback estimation"
-msgstr ""
+msgstr "反馈估计"
 
 #: ../../source/Intro.rst:61 51001a08f2004e0fa54e6ae3e7e781a7
 msgid ""
 "Constantly displayed (continuous) and periodically displayed "
 "(intermittent) **activation-based** feedbacks"
-msgstr ""
+msgstr "持续显示 (连续) 和周期显示 (间歇) **基于激活** 的反馈"
 
 #: ../../source/Intro.rst:63 c77bf1a63d6c4f6b96cb3552db99dc02
 msgid ""
 "Single/multiple ROI activity levels are estimated in terms of **percent "
 "signal change (PSC)** after preprocessing. Feedback estimation in this "
 "fashion usually involves:"
-msgstr ""
+msgstr "在预处理后，以 **百分比信号变化 (PSC)** 的形式估计单个/多个 ROI 的活动水平。这种方式的反馈估计通常涉及："
 
 #: ../../source/Intro.rst:66 ec005aaf4c3c44cfb5fe0dd78606982a
 msgid "Extracting voxel activity using ROI/pattern masks,"
-msgstr ""
+msgstr "使用 ROI/模式的蒙版提取体素活动，"
 
 #: ../../source/Intro.rst:67 bc11bef479aa485bbe8027fa1dda795d
 msgid ""
 "Obtaining average, weighted average, or eigenvector estimate from the "
 "spatial-temporal data sample within the ROI, and"
-msgstr ""
+msgstr "从 ROI 内的空间-时间数据样本中获得平均值、加权平均值或特征向量估计，以及"
 
 #: ../../source/Intro.rst:68 5b23652aa424497482702e409190faea
 msgid ""
 "Adaptively scaling (normalizing) the time-series (to prevent confusion "
 "for the participants)."
-msgstr ""
+msgstr "自适应地缩放 (归一化) 时间序列 (以防止参与者混淆)。"
 
 #: ../../source/Intro.rst:70 b480f0f1ad0744a98f69d04f3e8e4871
 msgid "Intermittent effective **connectivity** feedback"
-msgstr ""
+msgstr "间歇性的有效 **连接** 反馈"
 
 #: ../../source/Intro.rst:72 fe80ebe9f7a74701a0140ca02a6cff01
 msgid "Connectivity can estimated as:"
-msgstr ""
+msgstr "连接可以估计为："
 
 #: ../../source/Intro.rst:74 f093b638702a43ae93ad1aefe71b876b
 msgid ""
 "Temporal correlation (using **Pearson correlation coefficient** "
 "estimation) between two time-series, and"
-msgstr ""
+msgstr "两个时间序列之间的时间相关性 (使用 **Pearson 相关系数** 估计)，以及"
 
 #: ../../source/Intro.rst:75 f093b638702a43ae93ad1aefe71b876b
 msgid ""
 "Functional connectivity networks using **real-time Smooth Incremental "
 "Graphical Lasso (rt-SINGLE)**."
-msgstr ""
+msgstr "使用 **实时平滑增量图形 Lasso (rt-SINGLE)** 的功能连接网络。"
 
 #: ../../source/Intro.rst:77 0b49a457942d42de9cf2b917df3825bf
 msgid ""
 "Dynamic causal modeling (DCM) can also be used to estimate effective "
 "connectivity."
-msgstr ""
+msgstr "动态因果建模 (DCM) 也可以用来估计有效连接。"
 
 #: ../../source/Intro.rst:79 f4d4496f1d5144c6892d4d291bea1ab5
 msgid "Continuous **classification-based** feedback"
-msgstr ""
+msgstr "连续的 **基于分类** 的反馈"
 
 #: ../../source/Intro.rst:81 d54f3614e19d461ebdb1a6a0b838c8f1
 msgid ""
 "A **supporting vector machine (SVM) classifier** is trained prior to "
 "neurofeedback run to discriminate between two attention states."
-msgstr ""
+msgstr "在神经反馈运行之前，训练一个 **支持向量机 (SVM) 分类器** ，以区分两种注意状态。"
 
 #: ../../source/Intro.rst:82 9af12bd4a85a40b2b8c93698ca2eeaa3
 msgid ""
 "Accuracy of classification is determined using **n-fold cross "
 "validation**."
-msgstr ""
+msgstr "使用 **n 折交叉验证** 确定分类的准确性。"
 
 #: ../../source/Intro.rst:83 039e34f371c04ba8b8e5ab692fc1af04
 msgid "The trained classifier is used to provide neurofeedback."
-msgstr ""
+msgstr "训练好的分类器用于提供神经反馈。"
 
 #: ../../source/Intro.rst:85 daa7f17d8e3045d299980124753d700c
 msgid "Feedback presentation."
-msgstr ""
+msgstr "反馈介绍。"
 
 #: ../../source/Intro.rst:87 6505dc6fd3b64bcea593cd03cc87772b
 msgid "Feedback is presented visually as simple visual cues, e.g."
-msgstr ""
+msgstr "反馈以简单的视觉提示的形式呈现，例如："
 
 #: ../../source/Intro.rst:89 52bc3e99d8d04777b3ffa8ab8342f65f
 msgid "Thermometer,"
-msgstr ""
+msgstr "温度计，"
 
 #: ../../source/Intro.rst:90 bcad927cc7184001b21ed2201955990c
 msgid "Moving bar,"
-msgstr ""
+msgstr "移动条，"
 
 #: ../../source/Intro.rst:91 6a97af4b7b7d4fcd9cdd0469d1f711af
 msgid "Avatar faces, and"
-msgstr ""
+msgstr "头像，以及"
 
 #: ../../source/Intro.rst:92 cbd5204eaf23478ba58255028e8a1703
 msgid "VR-scenes,"
-msgstr ""
+msgstr "VR 场景，"
 
 #: ../../source/Intro.rst:94 35a4cae1e3144a4091b3a31822660f68
 msgid "via"
-msgstr ""
+msgstr "通过"
 
 #: ../../source/Intro.rst:96 0bde22795f3a43ea894798517c88fc24
 msgid "MR-compatible 2D screens/goggles,"
-msgstr ""
+msgstr "MR 兼容的 2D 屏幕/眼镜，"
 
 #: ../../source/Intro.rst:97 93f66f792fe24bf5a57397cf2bd99895
 msgid "MR-compatible 3D displays, and"
-msgstr ""
+msgstr "MR 兼容的 3D 显示器，以及"
 
 #: ../../source/Intro.rst:98 7b1296796d644906990353c0b9f3b06d
 msgid "Virtual-reality goggles."
-msgstr ""
-
-#~ msgid ""
-#~ "This document is a personal notebook "
-#~ "of my experience with "
-#~ "[OpenNFT](https://www.opennft.org). It is not "
-#~ "the [official tutorial] or intended to"
-#~ " be a tutorial, but rather a "
-#~ "collection of notes that I took "
-#~ "while learning how to work with "
-#~ "OpenNFT."
-#~ msgstr ""
-
+msgstr "虚拟现实眼镜。"
