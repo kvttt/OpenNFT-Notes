@@ -148,19 +148,19 @@ msgstr "数据处理"
 msgid ""
 "**Incremental GLM (iGLM)** is used to estimate **whole-brian activation "
 "maps** which is displayed in real-time."
-msgstr " **增量广义线性模型 (iGLM)** 用于估计 **全脑激活图** ，并实时显示。"
+msgstr "**增量广义线性模型 (iGLM)** 用于估计 **全脑激活图** ，并实时显示。"
 
 #: ../../source/Intro.rst:54 0488fd16a0c14b63879e5a40087a14d9
 msgid ""
 "**Cumulative GLM** is used to correct for **linear drift** and **head "
 "motions**."
-msgstr " **累积广义线性模型** 用于校正 **线性漂移** 和 **头部运动**。"
+msgstr "**累积广义线性模型** 用于校正 **线性漂移** 和 **头部运动**。"
 
 #: ../../source/Intro.rst:55 0a47863fe43447029a2180d61d47177d
 msgid ""
 "**Low-pass Kalman filter** extracts **desired signal** and discards "
 "**high-frequency noise**."
-msgstr " **低通卡尔曼滤波器** 提取 **信号** 并丢弃 **高频噪声**。"
+msgstr "**低通卡尔曼滤波器** 提取 **信号** 并丢弃 **高频噪声**。"
 
 #: ../../source/Intro.rst:56 55641c041d5841b7b480d33971742436
 msgid ""
@@ -168,7 +168,7 @@ msgid ""
 "time-series** **prior to estimation of the GLM** is used account for "
 "serial correlations in fMRI data due to **non-neurophysiological "
 "fluctuations** and **non-modeled neuronal activity**."
-msgstr " **一阶自回归模型 (AR(1))** 应用于 **所有体素的时间序列** ，用于估计 GLM 之前，用于解释 fMRI 数据中由于 **非神经生理波动** 和 **非模拟的神经元活动** 而产生的序列相关性。"
+msgstr "**一阶自回归模型 (AR(1))** 应用于 **所有体素的时间序列** ，用于估计 GLM 之前，用于解释 fMRI 数据中由于 **非神经生理波动** 和 **非模拟的神经元活动** 而产生的序列相关性。"
 
 #: ../../source/Intro.rst:57 5f1f842f6a5d423dabf2a7a84b63280f
 msgid "**Dynamic ROI estimation**."
