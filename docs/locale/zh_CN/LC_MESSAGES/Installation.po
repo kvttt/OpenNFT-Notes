@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Kaibo
+# This file is distributed under the same license as the OpenNFT-Notes
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenNFT-Notes 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-05 11:24-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/Installation.rst:2 a8edfac4dcf94102915628f52ad213d4
+msgid "Installation"
+msgstr "安装"
+
+#: ../../source/Installation.rst:5 f967736b2f854349b67886b29b32ac00
+msgid "Install from GitHub"
+msgstr "从 GitHub 安装"
+
+#: ../../source/Installation.rst:7 b85db46516474b2cae3d06199e2afdd1
+msgid ""
+"You might encounter `issues "
+"<https://github.com/OpenNFT/OpenNFT/issues/161>`_ while trying to install"
+" the package. I have already submitted a PR to the original author. But "
+"as for now, we will use my forked version of the package. Run the "
+"following command in the terminal to install the package:"
+msgstr ""
+"你可能会在安装包时遇到 `问题 "
+"<https://github.com/OpenNFT/OpenNFT/issues/161>`_。我已经向原作者提交了一个 "
+"PR。但是现在，我们将使用我 fork 的版本。在终端中运行以下命令来安装 OpenNFT："
+
+#: ../../source/Installation.rst:19 f1b36d26cd4e46f1a0179b78ebf663fe
+msgid "Check Installation"
+msgstr "检查"
+
+#: ../../source/Installation.rst:21 04cf59b51e7e408ab171e3df85a1122f
+msgid ""
+"To check if the installation was successful, run the following command in"
+" the terminal:"
+msgstr "要检查安装是否成功，请在终端中运行以下命令："
+
+#: ../../source/Installation.rst:27 900fb70ae36d4581988fc2b1b4aa9994
+msgid "You should see the following output (or something similar):"
+msgstr "你应该会看到以下输出（或类似的内容）："
+
+#: ../../source/Installation.rst:37 b62378ccf8f84bfeb7f1abcd02093861
+msgid "Run OpenNFT"
+msgstr "运行 OpenNFT"
+
+#: ../../source/Installation.rst:39 900fb70ae36d4581988fc2b1b4aa9994
+msgid "To run OpenNFT, run the following command in the terminal:"
+msgstr "要运行 OpenNFT，请在终端中运行以下命令："
+
+#: ../../source/Installation.rst:47 f0fa684dd22b473da1fa95aab9162657
+msgid "Issues"
+msgstr "问题"
+
+#: ../../source/Installation.rst:49 1431413a3dcf465eb08b13d71becc3b9
+msgid ""
+"If you have to install MATLAB Engine API for Python manually, please "
+"refer to `Install MATLAB Engine API for Python "
+"<https://www.mathworks.com/help/matlab/matlab_external/install-the-"
+"matlab-engine-for-python.html>`_."
+msgstr "如果你需要手动安装 MATLAB Engine API for Python，请参考 `Install MATLAB Engine API for Python <https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html>`_。"
+

@@ -1,0 +1,134 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Kaibo Tang
+# This file is distributed under the same license as the OpenNFT-Notes
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenNFT-Notes 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-02 20:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/Pre-Installation.rst:2 8dc48832bc0b4e648f293f9a787a933b
+msgid "Pre-Installation Preparation"
+msgstr "预安装准备"
+
+#: ../../source/Pre-Installation.rst:4 926c2cc28bf940eeb8257075e0bb96cc
+msgid "In this step, we prepare the system for the installation of OpenNFT."
+msgstr "在这一步，我们将做一些安装 OpenNFT 之前的准备工作。这其中包括："
+
+#: ../../source/Pre-Installation.rst:6 44a074337dc845af9ce7696470185c33
+msgid "Install MATLAB R2017b or later."
+msgstr "安装 MATLAB R2017b 或更高版本。"
+
+#: ../../source/Pre-Installation.rst:8 ../../source/Pre-Installation.rst:25
+#: 19563a728eac48c08f863a3ea97a2a3c 62d82b93817744549118698d814233d9
+msgid "Imaging Processing Toolbox"
+msgstr "Imaging Processing Toolbox"
+
+#: ../../source/Pre-Installation.rst:9 ../../source/Pre-Installation.rst:26
+#: 26ad0e99775d4717ba8d89f61fc0c6b6 a4ff014be86741a1bd178225969e061d
+msgid "Statistics and Machine Learning Toolbox"
+msgstr "Statistics and Machine Learning Toolbox"
+
+#: ../../source/Pre-Installation.rst:10 bdb144104b454a389084a81bfa85c22b
+msgid "SPM12"
+msgstr "SPM12"
+
+#: ../../source/Pre-Installation.rst:11 a2c4addf51324484bc83ce5a933c91ec
+msgid "Psychtoolbox 3"
+msgstr "Psychtoolbox 3"
+
+#: ../../source/Pre-Installation.rst:12 44c4b0d58ab0465c8e36c154626c24a4
+msgid "JSONlab"
+msgstr "JSONlab"
+
+#: ../../source/Pre-Installation.rst:14 24d9613c15c54c21ad6262896ad2d394
+msgid "Create Conda environment for installing OpenNFT."
+msgstr "创建用以安装 OpenNFT 的 Conda 环境。"
+
+#: ../../source/Pre-Installation.rst:16 a2ff2a38151246f28bd62d95b07d2af3
+msgid "Python 3.6.0 to 3.8.6"
+msgstr "Python 3.6.0 到 3.8.6"
+
+#: ../../source/Pre-Installation.rst:18 95fc5e87eea549b5abac5cf89ad26491
+msgid "Install Git."
+msgstr "安装 Git。"
+
+#: ../../source/Pre-Installation.rst:21 792b5ff4171341cfa6ee5dd490c44195
+msgid "Install MATLAB R2017b or Later"
+msgstr "安装 MATLAB R2017b 或更高版本"
+
+#: ../../source/Pre-Installation.rst:23 6eaa166f5e3f4e1ea2a6d61f9d3db772
+msgid ""
+"We assume that you have install MATLAB, along with the following "
+"toolboxes:"
+msgstr "我们假设您已经安装了 MATLAB，以及以下的工具箱："
+
+#: ../../source/Pre-Installation.rst:28 d156a513853f4893bc73dac8e876e235
+msgid ""
+"To install SPM12, please refer to `SPM Installation "
+"<https://www.fil.ion.ucl.ac.uk/spm/software/download/>`_."
+msgstr "要安装 SPM12，请参考 `SPM 安装 <https://www.fil.ion.ucl.ac.uk/spm/software/download/>`_。"
+
+#: ../../source/Pre-Installation.rst:30 d156a513853f4893bc73dac8e876e235
+msgid ""
+"To install Psychtoolbox 3, please refer to `Psychtoolbox Installation "
+"<http://psychtoolbox.org/download.html>`_."
+msgstr "要安装 Psychtoolbox 3，请参考 `Psychtoolbox 安装 <http://psychtoolbox.org/download.html>`_。"
+
+#: ../../source/Pre-Installation.rst:32 bf9f53c9c2274fa6a449784e1c5e301c
+msgid ""
+"To install JSONlab, please refer to `JSONlab Installation "
+"<https://www.mathworks.com/matlabcentral/fileexchange/33381-jsonlab-a"
+"-toolbox-to-encode-decode-json-files>`_."
+msgstr "要安装 JSONlab，请参考 `JSONlab 安装 <https://www.mathworks.com/matlabcentral/fileexchange/33381-jsonlab-a-toolbox-to-encode-decode-json-files>`_。"
+
+#: ../../source/Pre-Installation.rst:35 53948249f9f9470883c9b83bd8b55eb7
+msgid "Create and Activate Conda Environment"
+msgstr "创建并激活 Conda 环境"
+
+#: ../../source/Pre-Installation.rst:37 d156a513853f4893bc73dac8e876e235
+msgid ""
+"If you have not installed Conda, please refer to `Conda Installation "
+"<https://docs.conda.io/projects/conda/en/latest/user-"
+"guide/install/index.html>`_."
+msgstr ""
+"如果您还没有安装 Conda，请参考 `Conda 安装 "
+"<https://docs.conda.io/projects/conda/en/latest/user-"
+"guide/install/index.html>`_。"
+
+#: ../../source/Pre-Installation.rst:39 965b6f8c52be42e9b4bf417b8d372147
+msgid ""
+"To create a Conda environment for installing OpenNFT, run the following "
+"command in the terminal:"
+msgstr "要创建一个用于安装 OpenNFT 的 Conda 环境，请在终端中运行以下命令："
+
+#: ../../source/Pre-Installation.rst:49 95fc5e87eea549b5abac5cf89ad26491
+msgid "Install Git"
+msgstr "安装 Git"
+
+#: ../../source/Pre-Installation.rst:51 321b05887bab400c89f37a71019421fb
+msgid ""
+"To install Git in the Conda environment you just created, run the "
+"following command in the terminal:"
+msgstr "要在您刚刚创建的 Conda 环境中安装 Git，请在终端中运行以下命令："
+
+#: ../../source/Pre-Installation.rst:58 e5e84e87562048f3a4f2221d500d1d65
+msgid "Now we are ready to move on to the next step."
+msgstr "下一步我们将开始安装 OpenNFT。"
+
+#~ msgid "We assume that you have install the software listed in step 1."
+#~ msgstr "我们假设您已经安装了步骤 1 中列出的软件。"
+
