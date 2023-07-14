@@ -5,7 +5,7 @@ In this step, we prepare the system for the installation of OpenNFT.
 
 #. Install MATLAB R2017b or later.
   
-    * Imaging Processing Toolbox
+    * Image Processing Toolbox
     * Statistics and Machine Learning Toolbox
     * SPM12
     * Psychtoolbox 3
@@ -13,7 +13,7 @@ In this step, we prepare the system for the installation of OpenNFT.
 
 #. Create Conda environment for installing OpenNFT.
 
-    * Python 3.6.0 to 3.8.6
+    * Python 3.6.0 to 3.8.6 (In my case, Python 3.9.0 works fine.)
 
 #. Install Git.
 
@@ -22,7 +22,7 @@ Install MATLAB R2017b or Later
 
 We assume that you have install MATLAB, along with the following toolboxes:
 
-* Imaging Processing Toolbox
+* Image Processing Toolbox
 * Statistics and Machine Learning Toolbox
 
 To install SPM12, please refer to `SPM Installation <https://www.fil.ion.ucl.ac.uk/spm/software/download/>`_.

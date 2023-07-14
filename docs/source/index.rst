@@ -14,4 +14,5 @@ Contents
    Intro
    Pre-Installation
    Installation
+   Quickstart
 

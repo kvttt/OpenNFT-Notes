@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Kaibo Tang
+# This file is distributed under the same license as the OpenNFT-Notes
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenNFT-Notes 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-14 15:34+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/Quickstart.rst:2 cc1e499668e74a4497719fde055ff4c3
+msgid "Quickstart"
+msgstr "快速开始"
+
+#: ../../source/Quickstart.rst:4 20a34eb41f1d485eadb05cc1dfcdad89
+msgid ""
+"You should now have the OpenNFT GUI opened up in front of you. In "
+"addition, message in the terminal should instruct you to initialize. This"
+" means that Matlab engines needs to be started and the OpenNFT GUI needs "
+"to be connected to the Matlab engine. Go ahead and press the "
+"\"Initialize\" button in the GUI and you should see the following message"
+" in the terminal:"
+msgstr "现在，OpenNFT 的图形界面应该已经打开。同时，命令行里的信息提示需要初始化。这意味着 Matlab 的引擎还未启动，OpenNFT 也需要与这些引擎建立连接。点击图形界面上的“初始化”按钮，你应该会在命令行里看到如下信息："
+
+#: ../../source/Quickstart.rst:22 33e56f2e2a0341239beced7b9c46617f
+msgid "Issues"
+msgstr "问题"
+
+#: ../../source/Quickstart.rst:24 ea04719f5e2747828613678eeb6f8792
+msgid "If you see the following error:"
+msgstr "如果你看到如下错误："
+
+#: ../../source/Quickstart.rst:30 4ff2d49bd65544f1a121ce748cae8441
+msgid ""
+"This could be due to the presence of zombie Matlab processes that are not"
+" properly closed. If this is the case, you can find the corresponding "
+"temporary files by first locating the ``tempdir`` of your Matlab "
+"installation. In my case, opening Matlab and running the following "
+"command gives me the following output:"
+msgstr "这有可能是因为 Matlab 的进程没有正常关闭。如果是这种情况，你可以通过定位 Matlab 的临时文件夹来找到对应的临时文件。在我的电脑上，打开 Matlab 并运行如下命令，会得到如下输出："
+
+#: ../../source/Quickstart.rst:42 03ab3a6f02f743738e3ac6fa760b7342
+msgid ""
+"Then, you can navigate to the folder above and remove "
+"``MATLAB_NFB_MAIN_SHARED`` and ``MATLAB_NFB_MAIN``. Afterwards, you can "
+"try to initialize again."
+msgstr "接下来，你可以进入上面的文件夹，删除 ``MATLAB_NFB_MAIN_SHARED`` 和 ``MATLAB_NFB_MAIN``。然后，你可以再次尝试初始化。"
+
